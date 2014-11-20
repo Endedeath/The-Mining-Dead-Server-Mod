@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tmd",
+  "name": "TMD Mod",
+  "description": "The Mining Dead Server's custom zombie mod & more.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "theminingdead.net",
+  "updateUrl": "",
+  "authorList": ["zeuslightning125"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

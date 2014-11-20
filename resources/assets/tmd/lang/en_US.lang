@@ -1,0 +1,9 @@
+entity.entityRunner.name=Runeer
+entity.entityInfected.name=Infected
+entity.entityGlass.name=Glass Canfect
+entity.entityTank.name=Tahnk
+entity.entityHealthy.name=Falseh
+entity.entityUnhealthy.name=Trulet
+entity.entitySuicide.name=Blaster
+entity.entityInfector.name=Splasher
+entity.entityBomber.name=Sandswept Abomination
